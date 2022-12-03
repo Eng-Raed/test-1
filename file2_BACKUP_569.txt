@@ -1,0 +1,6 @@
+
+<<<<<<< HEAD
+life is beutifull
+=======
+life is hard
+>>>>>>> branch2
